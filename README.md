@@ -1,24 +1,9 @@
-# README
+# An example app to go along with the blog post
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run this app:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Clone the repo
+2. `bundle install`
+3. `rails s`
+4. Go to `localhost:3000` in your browser.
+5. Click the link on the home page to see the email preview!
